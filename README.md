@@ -1,8 +1,8 @@
-# the-care-finder
-#carefully i created this app with all my users in my mind
-This webpage was constructed using Firebase authentication.
 
-**This application allows users to search for hospitals either by name or by state. It also features authentication through Firebase authentication.** 
+### HOW I CAME ABOUT BUILDING THIS PAGE #########
+This page was build, using firebase authentication and deployed with *****netlify*****
+hospitalsearch.netlify.app
 
-**To access the dashboard, users must create an account using Firebase authentication.** 
-
+**** This Application involves in searching of hospital eaither by name or by state. And its also has Authentication with firebase auth
+**** User can not access dashboad execpt he/she has created an acount(firebase auth)
+**** Feel free to interact through this application
